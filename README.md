@@ -5,6 +5,7 @@ A simple template for deploying an HTML website to GitHub Pages
 ## Instructions
 
 1. Fork this repository
+![alt text](image.png)
 2. Clone the forked repository
 3. Copy HTML files to the root of the cloned repository and overwrite the index.html file
 4. Change the URL in `CNAME` to your own domain. If you don't have a domain, delete the `CNAME` file.
